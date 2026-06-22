@@ -3,8 +3,10 @@
 **A synthetic supply-chain dataset + Python/SQL-style data pipeline + Tableau dashboard suite, built to demonstrate end-to-end supply-chain data analysis: data generation, cleaning, anomaly detection, and visualization.**
 
 > 🔗 Live Tableau dashboards: 
-**[Sankey Dashboard] https://public.tableau.com/app/profile/blaire.kim8868/viz/LeadTimeAnalysis_17821502520500/LeadTimeAnalysis**
-**[Lead Time Analysis] https://public.tableau.com/app/profile/blaire.kim8868/viz/SCMPlantManagement/SankeyDashboard**
+**[Sankey Dashboard]
+> https://public.tableau.com/app/profile/blaire.kim8868/viz/LeadTimeAnalysis_17821502520500/LeadTimeAnalysis**
+**[Lead Time Analysis]
+> https://public.tableau.com/app/profile/blaire.kim8868/viz/SCMPlantManagement/SankeyDashboard**
 
 ---
 
